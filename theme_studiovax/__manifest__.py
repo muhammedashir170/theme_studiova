@@ -48,7 +48,6 @@
     ],
 
     'images': [
-        'static/description/studiovax_cover.jpg',
         'static/description/studiovax_gif.gif',
 
     ],
