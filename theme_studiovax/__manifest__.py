@@ -47,11 +47,7 @@
 
     ],
 
-    'images': [
-        'static/description/studiovax_cover.jpg',
-        'static/description/studiovax_gif.gif',
 
-    ],
 
     'assets': {
         'web.assets_frontend': [
@@ -87,6 +83,13 @@
             'theme_studiovax/static/src/js/meet_our_team.js',
         ],
     },
+
+'images': [
+        'static/description/studiovax_cover.jpg',
+        'static/description/studiovax_gif.gif',
+
+    ],
+
 
     'installable': True,
     'auto_install': False,
