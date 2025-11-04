@@ -48,8 +48,8 @@
     ],
 
     'images': [
-        'static/description/studiova_cover.jpg',
-        'static/description/studiova_gif.gif',
+        'static/description/studiovax_cover.jpg',
+        'static/description/studiovax_gif.gif',
 
     ],
 
