@@ -49,7 +49,7 @@
 
     'images': [
         'static/description/studiova_cover.jpg',
-        'static/description/studiova.gif',
+        'static/description/studiova_gif.gif',
 
     ],
 
