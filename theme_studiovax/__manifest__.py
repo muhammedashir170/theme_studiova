@@ -6,7 +6,7 @@
     'version': '18.0.1.0.0',
     'sequence': 1,
     'author': 'XAPP',
-    'summary': 'Professional Odoo Website Theme - Perfect for Creative Agencies, Portfolios & Corporate Websites',
+    'summary': 'Professional Odoo Website Theme - Perfect for Creative Agencies,',
     'description': """
         Studiova - Website Theme for Odoo 18
 
