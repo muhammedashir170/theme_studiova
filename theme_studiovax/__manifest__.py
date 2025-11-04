@@ -94,4 +94,6 @@
     'installable': True,
     'auto_install': False,
     'application': False,
+
+    'odoo_online': False,
 }
