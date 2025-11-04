@@ -49,7 +49,7 @@
 
     'images': [
         'static/description/studiova.gif',
-        'static/description/studiova_cover.png',
+        'static/description/studiova_cover.jpg',
     ],
 
     'assets': {
